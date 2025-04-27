@@ -1,0 +1,1 @@
+Code and figures for the experiments in the dissertation. Datasets are available at https://archive.ics.uci.edu/dataset/203/yearpredictionmsd (YearPredictionMSD) and https://gaussianprocess.org/gpml/data/ (SARCOS).
